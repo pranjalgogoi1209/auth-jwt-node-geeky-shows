@@ -1,0 +1,65 @@
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build output
+dist/
+build/
+out/
+
+# Runtime data
+*.pid
+*.pid.lock
+
+# Testing
+coverage/
+.nyc_output/
+
+# Environment variables
+.env
+.env.*.local
+
+# IDE settings
+.idea/
+*.iml
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.ps1
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Static file caches
+.cache/
+.next/
+.nuxt/
+
+# Optional npm cache
+.npm/
+
+# Optional yarn cache
+.pnp.*
+.pnp.js
+
+# Others
+*.tgz
+*.lock-wscript
+*.log
+__MACOSX/
+*.sqlite
+*.sqlite3
+*.db
+
+# Git-specific files
+.git/
+
+# 
